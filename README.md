@@ -1,6 +1,6 @@
 # Saving Matrix
 
-This library is used to solve the recording matrix to facilitate transportation.
+This library is used savig matrix method for facilitate transportation.
 
 ---
 **License**
