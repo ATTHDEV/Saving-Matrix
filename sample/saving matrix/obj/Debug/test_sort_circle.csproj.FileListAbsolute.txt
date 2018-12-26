@@ -1,0 +1,7 @@
+D:\programming\c#\test_sort_circle\test_sort_circle\bin\Debug\test_sort_circle.exe.config
+D:\programming\c#\test_sort_circle\test_sort_circle\bin\Debug\test_sort_circle.exe
+D:\programming\c#\test_sort_circle\test_sort_circle\bin\Debug\test_sort_circle.pdb
+D:\programming\c#\test_sort_circle\test_sort_circle\obj\Debug\test_sort_circle.csprojAssemblyReference.cache
+D:\programming\c#\test_sort_circle\test_sort_circle\obj\Debug\test_sort_circle.csproj.CoreCompileInputs.cache
+D:\programming\c#\test_sort_circle\test_sort_circle\obj\Debug\test_sort_circle.exe
+D:\programming\c#\test_sort_circle\test_sort_circle\obj\Debug\test_sort_circle.pdb

@@ -1,0 +1,13 @@
+D:\programming\c#\test_sort_circle\test_sort_circle\bin\Debug\test_sort_circle.exe.config
+D:\programming\c#\test_sort_circle\test_sort_circle\bin\Debug\test_sort_circle.exe
+D:\programming\c#\test_sort_circle\test_sort_circle\bin\Debug\test_sort_circle.pdb
+D:\programming\c#\test_sort_circle\test_sort_circle\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\programming\c#\test_sort_circle\test_sort_circle\obj\Debug\test_sort_circle.exe
+D:\programming\c#\test_sort_circle\test_sort_circle\obj\Debug\test_sort_circle.pdb
+D:\programming\c#\saving matrix sample\saving matrix\bin\Debug\test_sort_circle.exe.config
+D:\programming\c#\saving matrix sample\saving matrix\bin\Debug\test_sort_circle.exe
+D:\programming\c#\saving matrix sample\saving matrix\bin\Debug\test_sort_circle.pdb
+D:\programming\c#\saving matrix sample\saving matrix\obj\Debug\Sample.csprojAssemblyReference.cache
+D:\programming\c#\saving matrix sample\saving matrix\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\programming\c#\saving matrix sample\saving matrix\obj\Debug\test_sort_circle.exe
+D:\programming\c#\saving matrix sample\saving matrix\obj\Debug\test_sort_circle.pdb
